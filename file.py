@@ -7,7 +7,7 @@ root = Tk()
 root.title('Text to Speech')
 root.geometry('500x500')
 root.resizable(0,0)
-root.iconbitmap('bvuubv.ico')
+root.iconbitmap('iconapp.ico')
 engine = pyttsx3.init()
 voices = engine.getProperty('voices')
 
