@@ -1,7 +1,7 @@
 # Text-to-Speech-app
-A simple app project on  Python tkinter and pyttsx3
+Простой проект приложения для преобразования текста в речь на python
 
-Requirements:
-1) install tkinter library (pip install tkinter)
-2) install pyttsx3 library (pip install pyttsx3)
+Требования:
+1) tkinter library (pip install tkinter)
+2) pyttsx3 library (pip install pyttsx3)
    
