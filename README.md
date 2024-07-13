@@ -1,5 +1,5 @@
 # Text-to-Speech-app
-Простой проект приложения для преобразования текста в речь на python
+A simple python text-to-speech application project
 
 ![Интерфейс](screenshot_demo.png)
 
