@@ -6,6 +6,6 @@
 Требования:
 ##
     pip install tkinter
-1) tkinter library (pip install tkinter)
-2) pyttsx3 library (pip install pyttsx3)
+##
+    pip install pyttsx3
    
