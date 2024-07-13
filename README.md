@@ -5,7 +5,7 @@
 
 Требования:
 ##
-    <tab><tab>code/pip install tkinter
+    pip install tkinter
 1) tkinter library (pip install tkinter)
 2) pyttsx3 library (pip install pyttsx3)
    
