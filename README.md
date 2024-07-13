@@ -3,7 +3,7 @@
 
 ![Интерфейс](screenshot_demo.png)
 
-Требования:
+Requirements:
 ##
     pip install tkinter
 ##
