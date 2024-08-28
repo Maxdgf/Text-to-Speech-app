@@ -3,7 +3,7 @@ A simple python text-to-speech application project
 
 ![Интерфейс](screenshot_demo.png)
 
-Requirements:
+<h1>Requirements:</h1>
 ##
     pip install tkinter
 ##
